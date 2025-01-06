@@ -35,4 +35,4 @@ http://gaia.cs.umass.edu/kurose_ross/programming/Python_code_only/Web_Proxy_prog
 
 Text file test:
 http://web.simmons.edu/~grovesd/comm244/notes/week3/html-test-page.html
-Deliverables
+
